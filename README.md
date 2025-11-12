@@ -12,5 +12,5 @@
 ## Details страна (Поминат испит)
 <img src="files/Passed Exam Details Page.png" alt="Passed Exam Details Page" width="800" />
 
-## Видео од апликацијата
-<source src="files/App.webm" type="video/mp4" />
+## Линк до видео од апликацијата
+https://drive.google.com/file/d/1bMlGOH8Md1yb0slNP4hXv2MB2DwBxpKf/view?usp=drive_link
